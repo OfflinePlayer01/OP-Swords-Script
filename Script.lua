@@ -1,6 +1,3 @@
---only works on prison life you idiot
---link: https://www.roblox.com/games/155615604/Prison-Life
-
 do
 	local v0 = 0;
 	local v1;
